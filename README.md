@@ -1,4 +1,4 @@
-# angular
+# Event Bus / Chain of Resp.
 
 `$rootScope.$emit` only lets other $rootScope listeners catch it. This is good when you don't want every $scope to get it. Mostly a high level communication. Think of it as adults talking to each other in a room so the kids can't hear them.
 
